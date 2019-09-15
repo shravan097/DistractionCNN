@@ -1,6 +1,8 @@
 # Datasets
 train/
 test/
+checkpoint_training
+checkpoint_trainingVGG
 
 # Mac Stuff
 .DS_Store
